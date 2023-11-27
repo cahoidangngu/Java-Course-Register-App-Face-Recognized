@@ -1,0 +1,11 @@
+course_id,course_name,course_credits,course_maxStudents,course_location
+CSCI-GA.2130,Compiler Construction,3,15,A1
+CSCI-GA.2246,Open Source Tools,2,10,A2
+CSCI-GA.2250,Operating Systems,3,15,A3
+CSCI-GA.2433,Database Systems,4,15,A4
+CSCI-GA.2440,Software Engineering,3,16,A3
+CSCI-GA.2580,Web Search Engines,2,10,A4
+CSCI-GA.3033,Special Topic: Big Data Science,4,25,A2
+CSCI-UA.0002,Intro To Computer Programming,2,10,A1
+CSCI-UA.0004,Intro to Web Design & Computer Principles,3,19,A3
+CSCI-UA.0060,Database Design And Web Implementation,4,10,A5

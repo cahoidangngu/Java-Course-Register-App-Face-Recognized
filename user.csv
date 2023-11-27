@@ -1,0 +1,13 @@
+user_id,user_role,user_firstname,user_midname,user_lastname,user_username,user_password,user_phone,user_email
+1,ADMIN,Tran,Van,Tuan,admin,123,0943568797,tuantv797@gmail.com
+2,FACULTY,Tran,Tien,Cong,cong,123,0943568857,congtt857@gmail.com
+3,FACULTY,Tran,Dinh,Que,que,123,0943568515,quetd515@gmail.com
+4,FACULTY,Nguyen,Manh,Ninh,ninh,123,0943568962,ninhnm962@gmail.com
+5,FACULTY,Nguyen,Thuy,Quynh,quynh,123,0943568123,quynhnt123@gmail.com
+6,STUDENT,Tran,Duc,Quan,quan,123,0943568727,quantd727@gmail.com
+7,STUDENT,Duong,Tuan,Nam,nam,123,0943598197,namdt197@gmail.com
+8,STUDENT,Tong,Viet,Hoang,hoang,123,0936568797,hoangtv797@gmail.com
+9,STUDENT,Nguyen,Viet,Hung,hung,123,0949268797,hungnv797@gmail.com
+10,STUDENT,Nguyen,Anh,Tu,tu,123,0944268797,tuna797@gmail.com
+11,STUDENT,Nguyen,Dinh,Nam,nam,123,0954568797,namnd797@gmail.com
+12,STUDENT,Tran,Quang,Hieu,hieu,123,0983568797,hieutq797@gmail.com
